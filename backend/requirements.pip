@@ -1,0 +1,12 @@
+click
+flask
+flask-cors
+itsdangerous
+jinja2
+markupsafe
+pymongo
+werkzeug
+python-dotenv
+
+pytest
+pytest-cov
